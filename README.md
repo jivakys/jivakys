@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jivak Sute</h1>
 
-<img src="https://camo.githubusercontent.com/0e72b7e74363e294028ba98d083cc376fe52ad53c14263ac7a287e750e7f2d89/68747470733a2f2f7465637861722e696f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032332f30332f63643539643632366463383633393766653435303830653665396337303237642e676966" alt="gif" width="100%" height="500px" />
+<img src="https://camo.githubusercontent.com/0e72b7e74363e294028ba98d083cc376fe52ad53c14263ac7a287e750e7f2d89/68747470733a2f2f7465637861722e696f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032332f30332f63643539643632366463383633393766653435303830653665396337303237642e676966" alt="gif" width="100%" height="350px"  align="center"/>
 
-<h2 align="center">A Passionate Full Stack Web Developer from India</h2>
+<h1 align="center">A Passionate Full Stack Web Developer from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivakys&label=Profile%20views&color=0e75b6&style=flat" alt="jivakys" /> </p>
 

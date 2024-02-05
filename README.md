@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jivak Sute</h1>
 <h2 align="center">A Passionate Full Stack Web Developer from India</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivakys&label=Profile%20views&color=0e75b6&style=flat" alt="jivakys" /> </p>
-<img src="https://camo.githubusercontent.com/0e72b7e74363e294028ba98d083cc376fe52ad53c14263ac7a287e750e7f2d89/68747470733a2f2f7465637861722e696f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032332f30332f63643539643632366463383633393766653435303830653665396337303237642e676966" alt="gif" width="100%" height="380px" align="center"/>
+<img src="https://camo.githubusercontent.com/53f74c3871277d2fdb25e0ffde37c0f9e945cbecb04eec163d2915e37219198f/68747470733a2f2f6765656b666c6172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f4c6561726e2d436f64696e672d696e2d612d46756e2d5761792d6f6e2d54686573652d372d506c6174666f726d732e6a706567" alt="gif" width="100%" height="380px" align="center"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivakys" alt="jivakys" /></a> </p>
 

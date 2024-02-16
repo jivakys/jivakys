@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivakys" alt="jivakys" /></a> </p>
 
-- 🔭 I’m currently working on **Fitness-Hub**
+- 🔭 I’m currently working on **Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://jivakys.github.io/](https://jivakys.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.JS, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.JS, Express, MongoDB, Sql**
 
 - 📫 How to reach me **jivakysute@gmail.com,**
 

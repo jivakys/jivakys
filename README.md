@@ -4,7 +4,9 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gif" width="100%" height="380px" align="center"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivakys" alt="jivakys" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivakys" alt="jivakys" /></a> 
+</p>
 
 - 🔭 I’m currently working on **Node.Js**
 

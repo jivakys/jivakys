@@ -5,7 +5,7 @@
 
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="jivakys" /></a> 
+  <a href="https://github.com/jivakys/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=jivakys)](https://github.com/ryo-ma/github-profile-trophy)" alt="jivakys" /></a> 
 </p>
 
 - 🔭 I’m currently working on **Node.Js**

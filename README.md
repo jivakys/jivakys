@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jivak Sute</h1>
-<h2 align="center">A Passionate Full Stack Web Developer from India</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jivakys&label=Profile%20views&color=0e75b6&style=flat" alt="jivakys" /> </p>
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gif" width="100%" height="380px" align="center"/>
+<h1 align="center">Hi 👋, I'm Jivak Sute</h1>
+<h2 align="center">A Passionate Full Stack Web Developer</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jivakys&label=Profile%20views&color=0e75b6&style=flat" alt="jivakys" /> </p>
 
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivakys" alt="jivakys" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=jivakys" alt="jivakys" /></a> 
 </p>
 
 - 🔭 I’m currently working on **Node.Js**

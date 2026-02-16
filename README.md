@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivakys&label=Profile%20views&color=0e75b6&style=flat" alt="jivakys" /> </p>
 
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/jivakys/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jivakys" alt="jivakys" /></a> 
-</p>
+</p> -->
 
 - 🔭 I’m currently working on **Node.Js**
 

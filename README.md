@@ -9,10 +9,10 @@
 </p> -->
 
 - 🔭 I’m currently working on **Node.Js**
+- 
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express, MongoDB, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://jivakys.github.io/](https://jivakys.github.io/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.JS, Express, MongoDB, Sql**
 
 - 📫 How to reach me **jivakysute@gmail.com,**
 
